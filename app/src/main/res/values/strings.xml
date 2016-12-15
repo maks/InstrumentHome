@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstrumentHome</string>
+    <string name="shutdown_button">Turn Off</string>
+    <string name="app_button">XC Track</string>
+</resources>
